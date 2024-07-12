@@ -1,0 +1,29 @@
+html, body {
+    mArgin: opx;
+    background-color: #2f4f30;
+    color:white;
+
+}
+
+
+.title {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.letter {
+    position: relative;
+    width: 150px;
+    left: 100px;
+    margin-left: -75px;
+
+}
+
+
+#computer-letters, #player-letters {
+    height: 240px;
+}
+
